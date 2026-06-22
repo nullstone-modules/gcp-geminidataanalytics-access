@@ -1,0 +1,19 @@
+org_name: nullstone
+name: gcp-geminidataanalytics-access
+friendly_name: Gemini Data Analytics Access
+description: Grants a GCP app access to Gemini Data Analytics
+category: capability
+subcategory: datastores
+provider_types:
+    - gcp
+platform: geminidataanalytics
+subplatform: ""
+type: ""
+appCategories:
+    - container
+    - serverless
+    - server
+is_public: true
+tool_name: opentofu
+include: []
+source_url: https://github.com/nullstone-modules/gcp-geminidataanalytics-access
